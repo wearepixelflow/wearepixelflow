@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="banner.png" alt="PixelFlow Banner" width="100%">
+</p>
+
+
 <div align="center">
 
 <br>
@@ -132,7 +138,7 @@ Composable React components built for speed, polish, and accessibility.
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=wearepixelflow&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=E5E5E5" height="165"/>
+ <img src="https://streak-stats.demolab.com?user=wearepixelflow&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=E5E5E5" height="165"/> 
 
 </div>
 
